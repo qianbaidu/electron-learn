@@ -1,0 +1,10 @@
+version: 3.0.1
+files:
+  - url: electron_update_test-3.0.1-mac.zip
+    sha512: gHmHDqQbTpZbVIhyBGsQIkc9MwtEtkZYZbFS+swefAAs+eLWj70BzpuzvGa3bkn6xG6s7e/iw9uTrMvHm9dA5A==
+  - url: electron_update_test-3.0.1.dmg
+    sha512: qJs+nhv3HNslkuYmR7Sq8I67autZEd6hhIC6hW9TrkpgdDjy1lPJR8EXpknUesLSf2K/AEDDTrwWDdI/ylXo/A==
+    size: 50307194
+path: electron_update_test-3.0.1-mac.zip
+sha512: gHmHDqQbTpZbVIhyBGsQIkc9MwtEtkZYZbFS+swefAAs+eLWj70BzpuzvGa3bkn6xG6s7e/iw9uTrMvHm9dA5A==
+releaseDate: '2018-03-24T17:29:08.809Z'

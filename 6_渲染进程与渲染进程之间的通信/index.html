@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<body>
+    hello world
+    <hr />
+    hello electron
+    <button id="clickOpenLink">新窗口打开链接地址</button>
+    <button id="clickOpenLoaclFile">新窗口打开链接地址</button>
+
+
+    <button id="menu">菜单</button>
+
+    <button id="messageBtn">sendMessage</button>
+    <button id="new">渲染进程与渲染进程之间通信</button>
+    <script>
+        require("./renderer-process/open.js")
+
+        require("./renderer-process/menu.js")
+
+        require("./renderer-process/message.js")
+        require("./renderer-process/new-win.js")
+    </script>
+</body>
+</html>
